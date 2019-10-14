@@ -1,0 +1,12 @@
+name = "Rotary Gohugo Theme"
+license = "MIT"
+licenselink = "https://github.com/budparr/gohugo-theme-ananke/blob/master/LICENSE.md"
+description = "A Base theme for building full featured Hugo sites"
+homepage = "https://github.com/velzevur/rotary_theme"
+tags = ["website", "starter", "responsive", "blog", "Tachyons", "Multilingual"]
+features = ["posts", "shortcodes", "related content"]
+min_version = "0.30.2"
+
+[author]
+  name = "Dimitar Ivanov"
+  homepage = "https://github.com/velzevur"
